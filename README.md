@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Carmin Vuong's Github stats](https://github-readme-stats.vercel.app/api?username=carminvuong)](https://github.com/carminvuong/github-readme-stats)
+[![Carmin Vuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=carminvuong&count_private=true&show_icons=true&theme=react)](https://github.com/carminvuong)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carminvuong&theme=react)](https://github.com/carminvuong)
